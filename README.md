@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# mm-camelcase
+
+Principal Engineer | Java Architect | Cloud DevOps | Dublin-based Contractor
+
+I design and build resilient, high-performance systems at scale. My focus is Java (Spring Boot), AWS, Kubernetes, and automation via Terraform & CI/CD.
+
+### Key Projects
+- [Optimised Java](https://github.com/mm-camelcase/optimised-java): GraalVM + Spring Boot optimisations
+- [GPU Cost Optimisation](https://github.com/mm-camelcase/gpu-cost-optimisation): MPS/MIG on Spot Instances via EKS
+- [Task API Demo](https://github.com/mm-camelcase/task-api-demo): REST + GraphQL API with Swagger and token auth
+
+### Portfolio
+Check out my site: [camelcase.club](https://www.camelcase.club)
+
+> Available for short-term and long-term Java contracts in Ireland or remote.
