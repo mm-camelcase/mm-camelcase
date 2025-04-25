@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **mm-camelcase/mm-camelcase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +21,12 @@ Principal Engineer | Java Architect | Cloud DevOps | Dublin-based Contractor
 
 I design and build resilient, high-performance systems at scale. My focus is Java (Spring Boot), AWS, Kubernetes, and automation via Terraform & CI/CD.
 
+<!--
 ### Key Projects
 - [Optimised Java](https://github.com/mm-camelcase/optimised-java): GraalVM + Spring Boot optimisations
 - [GPU Cost Optimisation](https://github.com/mm-camelcase/gpu-cost-optimisation): MPS/MIG on Spot Instances via EKS
 - [Task API Demo](https://github.com/mm-camelcase/task-api-demo): REST + GraphQL API with Swagger and token auth
+-->
 
 ### Portfolio
 Check out my site: [camelcase.club](https://www.camelcase.club)
