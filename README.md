@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# mm-camelcase
+# Mark Mitchell
 
 Principal Engineer | Senior Software Engineer | Cloud DevOps | Dublin-based Contractor
 
