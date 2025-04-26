@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # mm-camelcase
 
-Principal Engineer | Java Architect | Cloud DevOps | Dublin-based Contractor
+Principal Engineer | Senior Software Engineer | Cloud DevOps | Dublin-based Contractor
 
 I design and build resilient, high-performance systems at scale. My focus is Java (Spring Boot), AWS, Kubernetes, and automation via Terraform & CI/CD.
 
